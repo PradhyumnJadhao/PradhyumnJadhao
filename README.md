@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pradhyumn Jadhao</h1>
 <h3 align="center">CSE(AIML) Student @ RCOEM’27</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradhyumnjadhao&label=Profile%20views&color=0e75b6&style=flat" alt="pradhyumnjadhao" /> </p>
-
 - 👨‍💻 I’ve worked on [CrimeConnect](https://crime-connect-three.vercel.app/)
 
 - 👨‍💻 I’ve worked on [Deep-Stego Secure](https://huggingface.co/spaces/PradhyumnJ/deep-stego-secure)
