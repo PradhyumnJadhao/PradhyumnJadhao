@@ -40,7 +40,7 @@
       <a href="https://crime-connect-three.vercel.app/"><strong>Explore Project ↗</strong></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://huggingface.co/spaces/PradhyumnJ/deep-stego-secure">Deep-Stego Secure</a></h3>
+      <h3>🛡️ <a href="https://deep-stego-secure-v2.streamlit.app/">Deep-Stego Secure V2</a></h3>
       <p>A deep-learning image steganography project exploring hidden-data embedding and extraction, with AES-256-GCM encryption for an additional security layer.</p>
       <p><strong>Technologies</strong></p>
       <p>
@@ -49,7 +49,7 @@
         <img src="https://img.shields.io/badge/Computer_Vision-0F766E?style=flat-square" alt="Computer Vision" />
         <img src="https://img.shields.io/badge/AES--256--GCM-374151?style=flat-square" alt="AES-256-GCM" />
       </p>
-      <a href="https://huggingface.co/spaces/PradhyumnJ/deep-stego-secure"><strong>Try Demo ↗</strong></a>
+      <a href="https://deep-stego-secure-v2.streamlit.app/"><strong>Try Demo ↗</strong></a>
     </td>
   </tr>
 </table>
