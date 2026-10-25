@@ -6,7 +6,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/pradhyumn-jadhao-9064ab301">LinkedIn</a> •
   <a href="mailto:pradhyumnjadhao12@gmail.com">Email</a> •
-  <a href="https://instagram.com/pradhyumnjadhao">Instagram</a> •
   <a href="https://huggingface.co/PradhyumnJ">Hugging Face</a>
 </p>
 
